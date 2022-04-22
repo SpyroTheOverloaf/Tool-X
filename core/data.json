@@ -1031,6 +1031,14 @@
     "package_manager" : "git",
     "dependency" : ["python","git"]
   },
+  "bluescan" : {
+    "name" : "bluescan",
+    "package_name" : "bluescan",
+    "category" : ["sniffing_snooping"],
+    "url" : "https://github.com/fO-000/bluescan.git",
+    "package_manager" : "git",
+    "dependency" : ["python","git"]
+  },
   "braa" : { 
     "name" : "braa",
     "package_name" : "braa",
